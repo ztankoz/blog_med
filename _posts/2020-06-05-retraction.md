@@ -7,6 +7,8 @@ categories: COVID-19 big_pharma
 author: ztankoz
 ---
 
+![Pinokio](https://raw.githubusercontent.com/ztankoz/blog_med/master/assets/covid_pinokio.jpg)
+
 Opublikowano 22 maja 2020 w prestiżowym piśmie medycznym Lancet artykuł podważający bezpieczeństwo i celowość stosowania dwóch leków w leczeniu pacjentów z COVID-19 (chlorochina i azytromycyna). Na jego podstawie rządy państw oraz WHO wydały zalecenia zakończenia testów tych preparatów w leczeniu choroby.
 
 Śledztwo dziennikaraskie wykazało, że nie było żadnych badań popierających przedstawione w artykule tezy. Na podstawie presji środowiska badaczy artykuł został wycofany.
