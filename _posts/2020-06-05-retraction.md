@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Potknięcie czy ataksja"
+subtitle: "badania medyczne i wielkie pieniądze"
 date: 2020-06-05 22:41:38 +0200
 categories: COVID-19 big_pharma
 author: ztankoz

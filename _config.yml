@@ -30,7 +30,7 @@ url: "https://blog.gabinetpsychiatra.pl" # the base hostname & protocol for your
 github_username: ztankoz
 
 # Build settings
-theme: minima
+#theme: minima
 plugins:
   - jekyll-feed
 #defaults:
