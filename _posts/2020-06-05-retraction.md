@@ -33,6 +33,6 @@ Kanał MedCram rzuca światło na interesy (firma Surgisphere) autorów artykuł
 
 _Pytania:_
 
-- jak wyglądał proces peer-review?
+- jak wyglądał proces peer-review w przytpadku tej pracy?
 - czy ma znaczenie, że oba leki są juz pozbawione ochrony patentowej? (żaden duży koncern na nich nie zarobi)
 - czy takie użycie fałszywej wiedzy dla zdyskredytowania konkurencyjnych metod leczenia lub autorów to incydent czy powszechna praktyka?
