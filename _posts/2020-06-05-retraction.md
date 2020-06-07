@@ -7,6 +7,8 @@ categories: COVID-19 big_pharma
 author: ztankoz
 ---
 
+<br>
+
 ![Pinokio](https://raw.githubusercontent.com/ztankoz/blog_med/master/assets/covid_pinokio.jpg)
 
 Opublikowano 22 maja 2020 w prestiżowym piśmie medycznym Lancet artykuł podważający bezpieczeństwo i celowość stosowania dwóch leków w leczeniu pacjentów z COVID-19 (chlorochina i azytromycyna). Na jego podstawie rządy państw oraz WHO wydały zalecenia zakończenia testów tych preparatów w leczeniu choroby.
@@ -24,8 +26,6 @@ Znany angielski epidemiolog opierając się na fałszywych badaniach wyciąga da
 Kanał MedCram rzuca światło na interesy (firma Surgisphere) autorów artykułu a dokładnie na konflikt interesów:
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/KS-mHOtXX84" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-[Coronavirus Pandemic Update 80: COVID-19 Retractions & Data (Hydroxychloroquine, ACE Inhibitors)](https://youtu.be/KS-mHOtXX84)
 
 <br>
 <hr>
