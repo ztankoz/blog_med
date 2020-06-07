@@ -25,7 +25,7 @@ Znany angielski epidemiolog opierając się na fałszywych badaniach wyciąga da
 
 Kanał MedCram rzuca światło na interesy (firma Surgisphere) autorów artykułu a dokładnie na konflikt interesów:
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/KS-mHOtXX84" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="660" height="315" src="https://www.youtube-nocookie.com/embed/KS-mHOtXX84" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
 <hr>
