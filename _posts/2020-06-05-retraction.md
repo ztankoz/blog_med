@@ -21,7 +21,11 @@ Omówienie sekwencji zdarzeń w Radiu WNET: [Przełom ws. terapii prof. Raoulta.
 
 Znany angielski epidemiolog opierając się na fałszywych badaniach wyciąga daleko idące wnioski: [Hydroxychloroquine Studies](https://youtu.be/-7za_j7f3L0), ale przywołuje opozycyjna pracę: [Low Dose of Hydroxychloroquine Reduces Fatality of Critically Ill Patients With COVID-19](https://pubmed.ncbi.nlm.nih.gov/32418114/)
 
-Kanał MedCram rzuca światło na interesy (firma Surgisphere) autorów artykułu a dokładnie na konflikt interesów: [Coronavirus Pandemic Update 80: COVID-19 Retractions & Data (Hydroxychloroquine, ACE Inhibitors)](https://youtu.be/KS-mHOtXX84)
+Kanał MedCram rzuca światło na interesy (firma Surgisphere) autorów artykułu a dokładnie na konflikt interesów:
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/KS-mHOtXX84" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Coronavirus Pandemic Update 80: COVID-19 Retractions & Data (Hydroxychloroquine, ACE Inhibitors)](https://youtu.be/KS-mHOtXX84)
 
 <br>
 <hr>
