@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: draft
 title: "Zdrowy weganin"
 subtitle: "kolejny oksymoron do kolekcji"
 date: 2020-07-23 16:41:38 +0200
