@@ -24,6 +24,8 @@ Wiele adresów tej samej strony ma utrudnić częste blokady dns ze strony usłu
 
 **Teraz i ja - zwykły lekarz - mogę mieć zapewnione prawo do wiedzy, które podobno gwarantuje [Deklaracja Praw Człowika ONZ](https://www.un.org/en/universal-declaration-human-rights/)**
 
+_Artykuły, które przywołuje we wpisach mają nadany numer DOI lub PMID. Celem uzyskania pełnego tekstu proszę wpisac te kody na stronie Pani Aleksandry Elbakyan i można czytac do woli._
+
 <br>
 <hr>
 <br>
