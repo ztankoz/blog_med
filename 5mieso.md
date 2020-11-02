@@ -4,6 +4,10 @@ title: Mięso
 permalink: /mieso/
 ---
 
+## Strona w budowie
+
+Szkic
+
 Skąd pomysł na szkodliwość mięsa?
 
 Argumenty ekologiczne

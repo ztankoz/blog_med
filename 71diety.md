@@ -4,6 +4,10 @@ title: Diety
 permalink: /diety/
 ---
 
+## Strona w budowie
+
+Szkic
+
 Każda dieta jest lepsza niż jedzenie wszystkiego co w kartoniku
 
 Eliminacja
