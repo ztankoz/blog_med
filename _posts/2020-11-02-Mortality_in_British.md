@@ -1,31 +1,33 @@
 ---
 layout: post
-title: " Mortality in British vegetarians "
-subtitle: "Jaka jest i od czego zależy śmiertelność wśród brytyjskich wegetarian"
-date: 2020-11-02 21:41:38 +0200
-categories: dieta śmiertelność wegatarianizm
+title: "Meat intake and cause-specyfic mortality: a pooled analysis of Asian prospective cohort studies"
+subtitle: "Mięso a śmiertelność w Azji - niespodzianka"
+date: 2020-11-02 22:41:38 +0200
+categories: dieta śmiertelność mięso epidemiologia
 author: ztankoz
 ---
 
-Autorzy: Paul N Appleby 1 , Timothy J Key, Margaret Thorogood, Michael L Burr, Jim Mann
+Autorzy:
+Jung Eun Lee 1 , Dale F McLerran, Betsy Rolland, Yu Chen, Eric J Grant, Rajesh Vedanthan, Manami Inoue, Shoichiro Tsugane, Yu-Tang Gao, Ichiro Tsuji, Masako Kakizaki, Habibul Ahsan, Yoon-Ok Ahn, Wen-Harn Pan, Kotaro Ozasa, Keun-Young Yoo, Shizuka Sasazuki, Gong Yang, Takashi Watanabe, Yumi Sugawara, Faruque Parvez, Dong-Hyun Kim, Shao-Yuan Chuang, Waka Ohishi, Sue K Park, Ziding Feng, Mark Thornquist, Paolo Boffetta, Wei Zheng, Daehee Kang, John Potter, Rashmi Sinha
 
 <hr>
 <br>
-Uwaga! Badanie epidemiologiczne czyli o słabej sile dowodowej. Takie badania opisuję korelacje a nie przyczynowość
+__Uwaga! Badanie epidemiologiczne czyli o słabej sile dowodowej. Takie badania opisują korelacje a nie przyczynowość__
 
-Cytat: "British vegetarians have low mortality compared with the general population. Their death rates are similar to those of comparable non-vegetarians, suggesting that much of this benefit may be attributed to non-dietary lifestyle factors such as a low prevalence of smoking and a generally high socio-economic status, or to aspects of the diet other than the avoidance of meat and fish."
+Cytat: " Ecological data indicate an increase in meat intake in Asian countries; however, our pooled analysis did not provide evidence of a higher risk of mortality for total meat intake and provided evidence of an inverse association with red meat, poultry, and fish/seafood. Red meat intake was inversely associated with CVD mortality in men and with cancer mortality in women in Asian countries. "
 
-[TŁUMACZ](https://www.deepl.com/translator#en/pl/British%20vegetarians%20have%20low%20mortality%20compared%20with%20the%20general%20population.%20Their%20death%20rates%20are%20similar%20to%20those%20of%20comparable%20non-vegetarians%2C%20suggesting%20that%20much%20of%20this%20benefit%20may%20be%20attributed%20to%20non-dietary%20lifestyle%20factors%20such%20as%20a%20low%20prevalence%20of%20smoking%20and%20a%20generally%20high%20socio-economic%20status%2C%20or%20to%20aspects%20of%20the%20diet%20other%20than%20the%20avoidance%20of%20meat%20and%20fish)
+[TŁUMACZ](https://www.deepl.com/translator#en/pl/%20Ecological%20data%20indicate%20an%20increase%20in%20meat%20intake%20in%20Asian%20countries%3B%20however%2C%20our%20pooled%20analysis%20did%20not%20provide%20evidence%20of%20a%20higher%20risk%20of%20mortality%20for%20total%20meat%20intake%20and%20provided%20evidence%20of%20an%20inverse%20association%20with%20red%20meat%2C%20poultry%2C%20and%20fish%5C%2Fseafood.%20Red%20meat%20intake%20was%20inversely%20associated%20with%20CVD%20mortality%20in%20men%20and%20with%20cancer%20mortality%20in%20women%20in%20Asian%20countries.)
 
 <br>
 Mój komentarz:
 
-Takie badania wymagaja rozumienia reguł rządzących statystyka oraz czynniki, które wpływaja silniej na wyniki niz to co badamy.
-Wegetarianie wypadaja lepiej niz ogólna populacja ale należy to przypisywać stylowi życia a nie samej diecie.
+Jakim sposobem mięso wywoływac ma raka wśród rasy kaukaskiej szczególnie zamieszkującej Europę i Ameryke Północna a działać dokładnie odwrotnie na azjatów?
+
+Mięso w azji wiązało sie z wyższym statusem i to wyzwala kaskadę zachowań prozdrowotnych. W naszym kręgu kulturowym jedzenie mięsa staje sie przejawem odrzucenia wartości zdrowych lub manifestacje wolności łącznie z innymi zachowaniami antyzdrowotnymi.
 
 <hr>
 <br>
 
-[Skrót do streszczenia pracy](https://pubmed.ncbi.nlm.nih.gov/12001975/)
+[Skrót do streszczenia pracy](https://pubmed.ncbi.nlm.nih.gov/23902788/)
 
 Oryginalana praca na prośbę moich pacjentów.
