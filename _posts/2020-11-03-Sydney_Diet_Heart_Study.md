@@ -3,7 +3,7 @@ layout: post
 title: "Use of dietary linoleic acid for secondary prevention of coronary heart disease and death: evaluation of recovered data from the Sydney Diet Heart Study and updated meta-analysis"
 subtitle: "Kolejne niewygodne badanie"
 date: 2020-11-03 23:41:38 +0200
-categories: dieta śmiertelność tłuszcz CHD
+categories: dieta śmiertelność tłuszcz CHD LA
 author: ztankoz
 ---
 

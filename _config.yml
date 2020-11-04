@@ -31,6 +31,7 @@ github_username: ztankoz
 author: "Krzysztof Stańkowski"
 
 # Build settings
+#mój własny a nie minima
 #theme: minima
 plugins:
   - jekyll-feed
