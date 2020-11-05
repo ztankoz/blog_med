@@ -1,7 +1,10 @@
 ---
-layout: page
-title: Diety
-permalink: /diety/
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: home-dieta
+title: "Dieta"
+category: dieta
 ---
 
 ## Strona w budowie
