@@ -10,7 +10,7 @@ authors: "Brian S. Fuehrlein, Michael S. Rutenberg, Jared N. Silver, Matthew W. 
 comment: "W ketozie komórki pownny być insulinooporne i nie odpowiadać na sygnały z taka mocą. To świadczy o tym, że mitochondria stale wytwarzaja gradient protonowy mimo braku potrzeb energetycznych a w cyklu Krebsa tworzą ketony w wątrobie mimo dostępności kwasów tłuszczowych na obwodzie. Insulinowrażliwość powoduje pozbywanie sie glukozy z kwioobiegu, wprowadzanie do komórek i generację energii, która nie jest potrzebna"
 ---
 
-Autorzy porównuja poziomy ketonów na diecie obfitej w tłuszcze nasycone i wielonienasycone. Wyższe poziomy uzyskuja badani na tłuszczach roślinnych co w środowisku diety ketogennej może budzić uznanie ale pomija aspekt metabolizmu komórkowego.
+Autorzy porównuja poziomy ketonów na diecie obfitej w tłuszcze nasycone i wielonienasycone. Wyższe poziomy uzyskują badani na tłuszczach roślinnych co w środowisku diety ketogennej może budzić uznanie ale pomija aspekt metabolizmu komórkowego.
 
 <hr>
 <br>

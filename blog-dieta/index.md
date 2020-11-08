@@ -9,8 +9,10 @@ category: dieta
 
 ## Strona w budowie
 
-Szkic
-
+Diety współczesnych muszą mieć jakąś podbudowę. Często jest to ideologia, czasem wynik zabawy w "głuchy telefon" z mediami społecznościowymi, innym razem poważnie brzmiący a jednak bełkot naukowy najczęściej przytaczany przez neurotycznych dziennikarzy.
+Dieta ludzi przez setki tysięcy lat wynikała ze środowiska w jakim żyli.
+Ludzie zawsze opracowywali jedzenie zanim je spożyli.
+Przy
 Każda dieta jest lepsza niż jedzenie wszystkiego co w kartoniku
 
 Eliminacja
