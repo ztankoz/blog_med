@@ -4,7 +4,7 @@ title: "Beef tallow increases apoptosis and decreases aberrant crypt foci format
 subtitle: "U szczurów stosowanie łoju działa uśmiercająco lub ochronnie na komórki zmienione nowotworowo. Oleje roślinne nie maja takich właściwości"
 date: 2020-11-04 17:41:38 +0200
 categories: dieta tłuszcz LA nowotwór
-category: dieta
+category: dieta metabolizm
 author: ztankoz
 authors: "Jinmo Khil 1 , Daniel D Gallaher"
 alert: "Badanie eksperymentalne na modelu zwierzęcym. Moga występowac różnice gatunkowe. Nie powinno byc wprost odnoszone do ludzi."

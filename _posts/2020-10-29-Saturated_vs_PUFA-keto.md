@@ -4,7 +4,7 @@ title: "Differential Metabolic Effects of Saturated Versus Polyunsaturated Fats 
 subtitle: "Odmienne efekty metaboliczne na diecie ketogennej w zależności od rodzaju tłuszczu"
 date: 2020-10-29 22:41:38 +0200
 category: metabolizm
-categories: insulinooporność insulinowrażliwość matabolizm cukry tłuszcze dieta
+categories: insulinooporność insulinowrażliwość matabolizm cukier tłuszcz dieta
 author: ztankoz
 authors: "Brian S. Fuehrlein, Michael S. Rutenberg, Jared N. Silver, Matthew W. Warren, Douglas W. Theriaque, Glen E. Duncan, Peter W. Stacpoole, Mark L. Brantly"
 comment: "W ketozie komórki pownny być insulinooporne i nie odpowiadać na sygnały z taka mocą. To świadczy o tym, że mitochondria stale wytwarzaja gradient protonowy mimo braku potrzeb energetycznych a w cyklu Krebsa tworzą ketony w wątrobie mimo dostępności kwasów tłuszczowych na obwodzie. Insulinowrażliwość powoduje pozbywanie sie glukozy z kwioobiegu, wprowadzanie do komórek i generację energii, która nie jest potrzebna"

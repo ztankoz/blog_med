@@ -4,7 +4,7 @@ title: "Is it saturated fat or polyunsaturated fat that’s killing you? Peter D
 subtitle: "Dwugodzinna rozmowa Dobromylsky - Saladino na temat metabolizmu (WIDEO)"
 date: 2020-10-29 22:41:38 +0200
 category: metabolizm dieta
-categories: insulinooporność insulinowrażliwość cukry tłuszcze matabolizm ROS
+categories: insulinooporność insulinowrażliwość cukier tłuszcz matabolizm ROS
 author: ztankoz
 authors: "Interlokutorzy: Peter Dobromylskyj i Paul Saladino"
 comment: "1. kwasy tłuszczowe nasycone (czytaj zwierzęce, np.stearynowy) maja wyższy stosunek FADH do NADH. Kawsy tłuszczowe nienasycone PUFA (czytaj roślinne, np.linolenowy) ten stosunek maja niższy. To zaburza możliwość ograniczenia napływu nadmiarowej energii do komórki. Kwasy PUFA przeładowuja system!!! PUFA generują insulinowrażliwość na poziomie komórkowym i nie bronia komórki przed przeładowaniem.

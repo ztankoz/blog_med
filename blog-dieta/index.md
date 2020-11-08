@@ -7,19 +7,12 @@ title: "Dieta"
 category: dieta
 ---
 
-## Strona w budowie
+[Tłuszcze](/dieta/2020/01/01/tluszcze.html) [Cukry](/dieta/2020/01/01/cukry.html) [Białka](/dieta/2020/01/01/bialka.html) [Mięso](/dieta/2020/01/01/mieso.html) [Rośliny](/dieta/2020/01/01/wegan.html)
 
-Diety współczesnych muszą mieć jakąś podbudowę. Często jest to ideologia, czasem wynik zabawy w "głuchy telefon" z mediami społecznościowymi, innym razem poważnie brzmiący a jednak bełkot naukowy najczęściej przytaczany przez neurotycznych dziennikarzy.
-Dieta ludzi przez setki tysięcy lat wynikała ze środowiska w jakim żyli.
-Ludzie zawsze opracowywali jedzenie zanim je spożyli.
-Przy
-Każda dieta jest lepsza niż jedzenie wszystkiego co w kartoniku
+Diety współczesnych muszą mieć jakąś podbudowę. Często jest nią ideologia, czasem poważnie brzmiący bełkot naukowy przytaczany przez neurotycznych dziennikarzy.
+Dieta ludzi przez setki tysięcy lat wynikała ze środowiska w jakim żyli. Zmienność warunków była wyzwaniem dla naszego gatunku, ala konserwatywny charakter pierwotnych społeczeństw stwarzał okazję dostrzeżenia cylki przekraczających długość życia pojedyńczego obserwatora. Dodatkowo nasz gatunek zawsze opracowywał jedzenie zanim je włożył do ust. To sprzyjało powstawaniu procedur, które z czasem stały się nośnikiem skumulowanej wiedzy cywilizacyjnej.
+Te czasy odeszły w zapomnienie a wraz z nimi wiedza, która nas tak długo ochraniała. Z jednej strony dysponujemy stale rozwijającą się nauką a równocześnie przestaliśmy dostrzegać cykle od, których jeśteśmy zależni. Wręcz nie chcemy ich widzieć, swoim gwałtownym rozwojem cywilizacyjnym usiłujemy oderwać się od tych pierwotnych, znienawidzonych ograniczeń. Każdym nowym odkryciem naukowym czy nurtem filozoficznym, podkreślamy niezależność od świata, z który nas kształtował przez milenia.
 
-Eliminacja
+W tej części bloga zebiram materiały, które kwestionują propagowany współcześnie styl żywienia, dając szansę na zbudowanie własnego zdania i bardziej świadomego wyboru żywieniowego.
 
-prowokacja
-
-Mody
-Polityka
-Ekonomia -
-Dystraktory behawioralne(nawyki), społeczne(przekazy medialne - z natury zdrowe...)
+W obecnym szumie informacyjnym dysponujemy trzema narzędziami, które powinniśmy używać w połączeniu i przy ich pomocy odkryć co jest dla nas korzystne zdrowotnie: eliminacja, prowokacja i cierpliwość.

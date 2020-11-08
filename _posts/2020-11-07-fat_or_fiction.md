@@ -1,14 +1,13 @@
 ---
 layout: post
 title: "Fat or fiction: the diet-heart hypothesis"
-subtitle: ""
+subtitle: "Zebranie 17 metaanaliz. Brak dowodów na redukcję śmiertelności poprzez ograniczanie kwasów nasyconych w diecie"
 date: 2020-11-08 10:41:38 +0200
 categories: dieta tłuszcz LA PUFA guidelines
 author: ztankoz
 category: dieta
 authors: "Robert DuBroff  1 , Michel de Lorgeril  2 "
 comment: "Dziwnym trafem zalecenia dietetyczne konstruowane są od dziesięcioleci w oparciu o badania o słabej sile dowodowej a nie o randomizowane badania z grupą kontrolną"
-alert: ""
 ---
 
 Autorzy przeanalizowali 17 metaanaliz badających związek tłuszczy nasyconych z chorobami serca lub ogólna śmiertelnością. Metaanalizy z kontrolowanych badań interwencyjnych wykazywały brak związku tłuszczów ze śmiertelnością lub wykazywały jej zmniejszenie. Inaczej było w badaniach epidemiologicznych, które maja słaba siłę dowodową.
