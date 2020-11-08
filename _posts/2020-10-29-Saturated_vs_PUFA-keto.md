@@ -3,21 +3,14 @@ layout: post
 title: "Differential Metabolic Effects of Saturated Versus Polyunsaturated Fats in Ketogenic Diets"
 subtitle: "Odmienne efekty metaboliczne na diecie ketogennej w zależności od rodzaju tłuszczu"
 date: 2020-10-29 22:41:38 +0200
-categories: insulinooporność insulinowrażliwość matabolizm cukry tłuszcze dieta
+category: metabolizm
+categories: insulinooporność insulinowrażliwość matabolizm cukier tłuszcz dieta
 author: ztankoz
+authors: "Brian S. Fuehrlein, Michael S. Rutenberg, Jared N. Silver, Matthew W. Warren, Douglas W. Theriaque, Glen E. Duncan, Peter W. Stacpoole, Mark L. Brantly"
+comment: "W ketozie komórki pownny być insulinooporne i nie odpowiadać na sygnały z taka mocą. To świadczy o tym, że mitochondria stale wytwarzaja gradient protonowy mimo braku potrzeb energetycznych a w cyklu Krebsa tworzą ketony w wątrobie mimo dostępności kwasów tłuszczowych na obwodzie. Insulinowrażliwość powoduje pozbywanie sie glukozy z kwioobiegu, wprowadzanie do komórek i generację energii, która nie jest potrzebna"
 ---
 
-Autorzy: Brian S. Fuehrlein, Michael S. Rutenberg, Jared N. Silver, Matthew W. Warren, Douglas W. Theriaque, Glen E. Duncan, Peter W. Stacpoole, Mark L. Brantly
-
-<hr>
-<br>
-Autorzy porównuja poziomy ketonów na diecie obfitej w tłuszcze nasycone i wielonienasycone. Wyższe poziomy uzyskuja badani na tłuszczach roślinnych co w środowisku diety ketogennej może budzić uznanie ale pomija aspekt metabolizmu komórkowego.
-
-<br>
-Mój komentarz:
-W ketozie komórki pownny być insulinooporne i nie odpowiadać na sygnały z taka mocą. To świadczy o tym, że mitochondria stale wytwarzaja gradient protonowy mimo braku potrzeb energetycznych a w cyklu Krebsa tworzą ketony w wątrobie mimo dostępności kwasów tłuszczowych na obwodzie.
-
-Insulinowrażliwość powoduje pozbywanie sie glukozy z kwioobiegu, wprowadzanie do komórek i generację energii, która nie jest potrzebna
+Autorzy porównuja poziomy ketonów na diecie obfitej w tłuszcze nasycone i wielonienasycone. Wyższe poziomy uzyskują badani na tłuszczach roślinnych co w środowisku diety ketogennej może budzić uznanie ale pomija aspekt metabolizmu komórkowego.
 
 <hr>
 <br>

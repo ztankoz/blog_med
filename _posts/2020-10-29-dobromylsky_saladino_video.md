@@ -1,17 +1,22 @@
 ---
 layout: post
 title: "Is it saturated fat or polyunsaturated fat that’s killing you? Peter Dobromylskyj from Hyperlipid"
-subtitle: "Dwugodzinna rozmowa Dobromylsky - Saladino na temat metabolizmu (VIDEO)"
+subtitle: "Dwugodzinna rozmowa Dobromylsky - Saladino na temat metabolizmu (WIDEO)"
 date: 2020-10-29 22:41:38 +0200
-categories: insulinooporność insulinowrażliwość cukry tłuszcze matabolizm ROS
+category: metabolizm dieta
+categories: insulinooporność insulinowrażliwość cukier tłuszcz matabolizm ROS
 author: ztankoz
+authors: "Interlokutorzy: Peter Dobromylskyj i Paul Saladino"
+comment: "1. kwasy tłuszczowe nasycone (czytaj zwierzęce, np.stearynowy) maja wyższy stosunek FADH do NADH. Kawsy tłuszczowe nienasycone PUFA (czytaj roślinne, np.linolenowy) ten stosunek maja niższy. To zaburza możliwość ograniczenia napływu nadmiarowej energii do komórki. Kwasy PUFA przeładowuja system!!! PUFA generują insulinowrażliwość na poziomie komórkowym i nie bronia komórki przed przeładowaniem.
+2. Otyli spożywając PUFA gromadzą je w tkance tłuszczowej a gdy dochodzi do lipolizy to uwalniaja głównie kwasy nasycone. Dopiero długotrwała głodówka powoduje uwolnienie PUFA. Ludzie nie produkuja PUFA!!! Są nam potrzebne w niewielkiej ilości jako substancje sygnałowe, mogły pełnic ważna rolę w gromadzeniu tłusczu przed zimą gdy produkty je zawierające były w obfitości.
+3. Wspomnienie eksperymentu w którym przeszczepiano guzy nowotworowe zwierzętom a następnie głodzono. W tym procesie komórki tłuszczowe uwalaniał zgoromadzone PUFA a tych powstawały substancje tropowe dla nowotworów przez co guzy przyśpieszały wzrost.
+4. najwięcej dostępnej ryboflawiny (wit.B2) jest w produktach mięsnych (np. wątroba). Ryboflawina jest konieczna do działania kompleksu II.
+5. koenzymQ - wąskie gardło procesu matabolizmu mitochondrialnego jest w największej ilości w sercu np. wołowym
+6. statyny powoduja inhibicje produkcji koenzymuQ (do sprawdzenia) - dlatego część kardiologów zaleca ze statynami CoQ
+7. <zalewanie> naszego organizmu antyoksydantami jest niezbyt rozumną forma ingerowania w bardzo złożone układy samoregulujące, w których ROS maja bardzo ważna rolę."
 ---
 
-Interlokutorzy: Peter Dobromylskyj i Paul Saladino
-
-<hr>
-<br>
-Rozmówcy omawiaja procesy zachodzące w komórkach organizmu ze szczególnym naciskiem na substancje konieczne do produkcji energii. Swoje wypowiedzi podpieraja literaturą i pracami badawczymi. 
+Rozmówcy omawiaja procesy zachodzące w komórkach organizmu ze szczególnym naciskiem na substancje konieczne do produkcji energii. Swoje wypowiedzi podpieraja literaturą i pracami badawczymi.
 Omawiają cykl Krebsa zachodzący w mitochondriach każdej komórki oraz kompleksy łańcucha transportu elektronów pozwalający wytworzyć gradient protonów między błonami mitochondraialnymi, służący na dalszym etapie do produkcji adenozynotrifosforanu (ATP). Ta substancja jest potrzebna każdej komórce do podtrzymania funkcji życiowych.
 
 Podkreślają rolę substancji będących nośnikami elektronów w produkcji energii i ich wpływ na szlaki metaboliczne.(NADH, FADH, koenzymQ). Pobieżnie omawiaja glikolizę (rozkład glukozy do pirogronianu) oraz b-oksydację (spalanie kwasów tłuszczowych).
@@ -24,17 +29,6 @@ Należy rozróżnić bezproduktywne powstawanie ROS w niewłaściwych miejscach 
 Przytaczaja badania "hiszpańskie" gdzie posiłek zawierający kwasy nasycone powodował przedłużenie okresu podwyższonych poziomów trójglicerydów we krwi w stosunku do posiłku zawierającego PUFA. Wytłumaczeniem jest fizjologiczna insulinooporność komórek wobec kwasów nasyconych. Dłużej pozostając w krwioobiegu dłużej są dostępne dla potrzebujących komórek (np. mięśni czy innych tkanek). PUFA szybko kończa w komórkach tłuszczowych ponieważ wywołuja insulinowrażliwość.
 
 Na koniec kilka słów o strategiach roślin na przykładzie śliwki i jej działania przeczyszczającego. Reakcja gospodarza jest zależna od cech osobniczych i możliwe powikłania zależna od dawki, częstotliwości i szczęścia.
-
-<br>
-Mój komentarz:
-
-1. kwasy tłuszczowe nasycone (czytaj zwierzęce, np.stearynowy) maja wyższy stosunek FADH do NADH. Kawsy tłuszczowe nienasycone PUFA (czytaj roślinne, np.linolenowy) ten stosunek maja niższy. To zaburza możliwość ograniczenia napływu nadmiarowej energii do komórki. Kwasy PUFA przeładowuja system!!! PUFA generują insulinowrażliwość na poziomie komórkowym i nie bronia komórki przed przeładowaniem.
-2. Otyli spożywając PUFA gromadzą je w tkance tłuszczowej a gdy dochodzi do lipolizy to uwalniaja głównie kwasy nasycone. Dopiero długotrwała głodówka powoduje uwolnienie PUFA. Ludzie nie produkuja PUFA!!! Są nam potrzebne w niewielkiej ilości jako substancje sygnałowe, mogły pełnic ważna rolę w gromadzeniu tłusczu przed zimą gdy produkty je zawierające były w obfitości.
-3. Wspomnienie eksperymentu w którym przeszczepiano guzy nowotworowe zwierzętom a następnie głodzono. W tym procesie komórki tłuszczowe uwalaniał zgoromadzone PUFA a tych powstawały substancje tropowe dla nowotworów przez co guzy przyśpieszały wzrost.
-4. najwięcej dostępnej ryboflawiny (wit.B2) jest w produktach mięsnych (np. wątroba). Ryboflawina jest konieczna do działania kompleksu II.
-5. koenzymQ - wąskie gardło procesu matabolizmu mitochondrialnego jest w największej ilości w sercu np. wołowym
-6. statyny powoduja inhibicje produkcji koenzymuQ (do sprawdzenia) - dlatego część kardiologów zaleca ze statynami CoQ
-7. "zalewanie" naszego organizmu antyoksydantami jest niezbyt rozumną forma ingerowania w bardzo złożone układy samoregulujące, w których ROS maja bardzo ważna rolę.
 
 <hr>
 <br>
