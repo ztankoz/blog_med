@@ -12,5 +12,3 @@ category: metabolizm
 Czym jest
 
 Sygnały na poziomie ogólnoustorojowym a na poziomie komórkowym
-
-Może jakis przypis

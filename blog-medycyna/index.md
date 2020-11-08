@@ -7,25 +7,19 @@ title: "Medycyna"
 category: medycyna
 ---
 
-## Strona w budowie
+Jeszcze dwadzieścia lat temu wyklinano na dziesięć leków, które miał przepisane pacjent 70-cio letni a to ze względu na interakcie a to potencjalne objawy uboczne. Teraz taki zestaw mają już czterdziestolatkowie.
 
-Jeszcze 2 lat temu wyklinano na 10 leków które miał przepisane pacjent 70cio letni a to ze względu na interakcie a to potencjalne objawy uboczne.
-Teraz taki zestaw mają juz czterdziestolatkowie.
+Czy dożyją 80tki? Pewnie tak ale w jakim stanie, jakim kosztem i na ilu kolejnych lekach?
 
-Czy dożyją 80tki? Pewnie tak ale w jakim stanie, jakim kosztem i na ilu lekach?
+Medycyna stała sie nauka "ostatniej bazy czy też krótkiej piłki" - objaw - lekarstwo. Na drugim biegunie wciela się w "stworzyciela" i wtedy wszystkie choroby przypisuje genom.
 
-Medycyna stała sie nauka "ostatniej bazy" albo "stworzyciela".
-Jest objaw, należy objaw wyeliminować. Jeśli nie mamy koncepcji to objaw jest idiopatyczny.
+Klasyczny zwrot akcji... eliminujemy jeden objaw wprowadzając zmiany w innych układach, przesuwamy problem na inne pole.
+Współczesna medycyna spycha problemy. Całe pokolenia medyków są tak właśnie kształcone. Proste recepty, objaw lekarstwo.
+Czegoś bardzo ważnego brakuje współczesnej medycynie. Kiedy stała sie współczesna? Kiedy utraciła zdolność do zobaczenia szeszej problemu choroby? W 1908 albo 1909...
+Wtdy zrozumienie zostało zastąpione przez statystykę.
+Ale teraz dochodzimy do granic rozwoju takiej formuły. Tylko niewielka liczba prac naukowych jest powtarzalna.
+Potrzebna jest jakaś zmiana paradygmatu albo przynajmniej uczciwość poznawcza.
 
-Klasyczny zwrot akcji... eliminują cjeden objaw wprowadzamy zmiany w innych układach przesuwając problem na inne pole.
-Współczesna medycyna spycha problemy.
+W chwili obecnej medycyna składa sie z dogmatycznych patchworków i jest daleko od zrozumienia dlaczego ludzie chorują.
 
-Całe pokolenia medyków są tak właśnie kształcone.
-Proste recepty, objaw lekarstwo. Brakuje zrozumienia natury problemu.
-
-Zrozumienie zostało zastąpione przez staystykę. Ewidenca based medicine jest jednym wielkim patchworkiem.
-
-Dochodzimy do granic rozwoju takiej formuły, potrzebna jest jakaś zmiana albo uczciwość poznawcza.
-
-Jeszcze prawnicy się wmieszali.
-Lekarze zaczęli tworzyć korporacje ograniczające i narzucające dogmat.
+Jesteśmy w głębokim średniowieczu a głosimy nowoczesność i otwartość...
