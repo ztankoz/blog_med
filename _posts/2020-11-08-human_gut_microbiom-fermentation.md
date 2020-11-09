@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Macronutrient metabolism by the human gut microbiome: major fermentation by-products and their impact on host health"
-subtitle: " "
+subtitle: " To co wiemy o jelitach i florze to procesy związane z rozkładem i obrotem polisacharydami. Niewielie mamy opracowań co do interakcji flory bakteryjnej z aminokwasami i tłuszczami ale gotowi jesteśmy naukowo bić się o promowanie działań rzekomo prozdrowotnych polecając wszyskim błonnik w jak największej ilości..."
 date: 2020-11-08 19:41:38 +0200
 categories: matabolizm błonnik ketoza
 author: ztankoz
