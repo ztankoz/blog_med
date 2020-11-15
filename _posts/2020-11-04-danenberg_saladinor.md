@@ -4,7 +4,7 @@ title: "A Carnivore Diet for Cancer? The personal story of Dr. Al Danenberg."
 subtitle: "Stomatolog opowiada swojej chorobie nowotworowej i dzieli sie wiedzą jaką zdobył w zakresie swojej specjalności (WIDEO)"
 date: 2020-11-04 22:41:38 +0200
 category: dieta choroby
-categories: dieta tłuszcz LA nowotwór
+categories: dieta tłuszcz LA nowotwór wideo
 author: ztankoz
 authors: "Interlokutorzy: Dr Al Danenberg i Dr Paul Saladino"
 comment: "Ogromne zaskoczenie dla mnie. Sczególnie rola miodu w utrzymaniu higieny jamy ustnej. Zawsze postrzegałem miód jako czynnik powodujący wraz z innymi cukrami, rozwój ubytków w uzębieniu. Jest zgoła odwrotnie"

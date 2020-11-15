@@ -3,7 +3,7 @@ layout: post
 title: "Nina Teicholz - U.S. Dietary Guidelines for Americans 2020 Update"
 subtitle: "Nina Teiholz (dziennikarka śledcza) omawia uaktualnioną wersję zaleceń dietetycznych w Stanach Zjednoczonych (WIDEO)"
 date: 2020-11-08 08:41:38 +0200
-categories: dieta cukier tłuszcz
+categories: dieta cukier tłuszcz wideo
 category: dieta
 author: ztankoz
 authors: "Nina Teiholz"

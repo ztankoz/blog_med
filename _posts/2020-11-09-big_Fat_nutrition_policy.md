@@ -3,7 +3,7 @@ layout: post
 title: "Big Fat Nutrition Policy | Nina Teicholz"
 subtitle: "Wykład dziennikarki śledczej Niny Tieholz o jej zmaganiach z przemysłem żywieniowym (WIDEO)"
 date: 2020-11-09 9:41:38 +0200
-categories: dieta tłuszcz cukier
+categories: dieta tłuszcz cukier wideo
 author: ztankoz
 authors: "Nina Teicholz"
 category: dieta

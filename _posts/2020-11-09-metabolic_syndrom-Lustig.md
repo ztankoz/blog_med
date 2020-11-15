@@ -3,7 +3,7 @@ layout: post
 title: "Prof. Robert Lustig - The three faces of metabolic syndrome"
 subtitle: "Wykład prof.Lustiga na temat zespołu matabolicznego (WIDEO)"
 date: 2020-11-09 10:41:38 +0200
-categories: dieta tłuszcz cukier otyłość insulinooporność
+categories: dieta tłuszcz cukier otyłość insulinooporność wideo
 author: ztankoz
 category: dieta metabolizm choroby
 comment: " Wszystkie dane wskazują, że stajemy się coraz bardziej chorzy. Autor wykładu dostrzega związek cukru jako czynnika toksycznego z zespołem matabolicznym rozumianym jako selektywna insulinooporność głównie w zakresie wątroby."
