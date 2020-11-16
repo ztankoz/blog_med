@@ -9,6 +9,4 @@ category: metabolizm
 
 ## Strona w budowie
 
-Czym jest
-
 Sygnały na poziomie ogólnoustorojowym a na poziomie komórkowym

@@ -9,8 +9,4 @@ category: rytmy
 
 ## Strona w budowie
 
-nasi przeodkowie
-
-sen i odporność
-
-światło
+(nasi przeodkowie, sen i odporność, światło)
