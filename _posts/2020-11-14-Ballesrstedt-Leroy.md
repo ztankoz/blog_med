@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "Meet Your Herdmates, Frédéric Leroy"
-subtitle: "Rozmowa agronoma Petera Bellsrstedta z biotechnologiem Frederickiem Leroy (WIDEO)"
+subtitle: "Rozmowa agronoma Petera Ballerstedta z biotechnologiem Frederickiem Leroy (WIDEO)"
 date: 2020-11-14 10:41:38 +0200
 categories: dieta mięso roślina wideo
 author: ztankoz
-authors: "Peter Bellerstedt"
+authors: "Peter Ballerstedt"
 category: dieta
 comment: " Luźna rozmowa pomagająca zrozumieć jak nagatywny jest wkład globalnych instytucji i korporacji na nasze codzienne żywienie a przez to też zdrowie "
 ---

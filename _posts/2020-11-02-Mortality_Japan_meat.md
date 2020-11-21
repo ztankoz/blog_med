@@ -8,7 +8,7 @@ categories: dieta śmiertelność epidemiologia mięso mleko
 author: ztankoz
 authors: "Yoshihide Kinjo, Valerie Beral, Suminori Akiba, Tim Key, Shoichi Mizuno, Paul Appleby, Naohito Yamaguchi, Shaw Watanabe, Richard Doll"
 comment: "Kolejna praca epidemiologiczna z innego kręgu kulturowego badająca użycie mięsa i produktów odzwierzęcych. Wnioski zupełnie odwrotne do posulowanych w pracach anglosaskich. Błąd badawczy, celowa manipulacja pod wpływem ideologii czy zupełne nie zrozumienie tematu albo samej dziedziny, która się zajmuje?"
-allert: "Badanie epidemiologiczne czyli o słabej sile dowodowej. Takie badania opisują korelacje a nie przyczynowość"
+alert: "Badanie epidemiologiczne czyli o słabej sile dowodowej. Takie badania opisują korelacje a nie przyczynowość"
 ---
 
 Cytat: "In this study, the risk of mortality from cerebrovascular disease was inversely associated with dairy milk, meat and fish consumption. Therefore the joint effect of dairy milk, meat and fish (DMF) as animal fat and protein was of interest....

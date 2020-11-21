@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "When is 'Protein' NOT Protein (& other ruminations)"
-subtitle: "Wykład agronoma Petera Bellerstedta pomagający zrozumieć informacje podawane na opakowaniach produktów (WIDEO)"
+subtitle: "Wykład agronoma Petera Ballerstedta pomagający zrozumieć informacje podawane na opakowaniach produktów (WIDEO)"
 date: 2020-11-14 11:41:38 +0200
 categories: dieta mięso roślina proteina wideo
 author: ztankoz
-authors: "Peter Bellerstedt"
+authors: "Peter Ballerstedt"
 category: dieta
 comment: "  "
 ---
