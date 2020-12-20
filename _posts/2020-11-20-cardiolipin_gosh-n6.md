@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Brief episode of STZ-induced hyperglycemia produces cardiac abnormalities in rats fed a diet rich in n-6 PUFA"
+title: "Brief episode of STZ-induced hyperglycemia produces cardiac abnormalities in rats fed a diet rich in n-6 PUFA"
 subtitle: "Na modelu zwierzęcym badacze sprawdzają hipotezę o ochronnym działaniu PUFA na komórki serca przy występującej cukrzycy. Wyniki niezgodne z oczekiwaniami"
 date: 2020-11-20 23:41:38 +0200
 category: metabolizm
