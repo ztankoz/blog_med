@@ -7,7 +7,7 @@ categories: insulinooporność matabolizm GLUT4 ApoE4
 category: metabolizm
 author: ztankoz
 authors: "Dr. Nadir Ali"
-comment: ""
+comment: "Dr Nadir Ali w przystępny sposób opisuje mechanizmy staojące za insulinoopornością oraz w każdym z wykładów rzuca nowe spojrzenie na utarte schamaty postepowania w medycynie"
 ---
 
 [Ogólne działania insuliny na wybrane narządy](https://youtu.be/A78RxVZnXgI?t=220)

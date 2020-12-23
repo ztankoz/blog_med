@@ -4,7 +4,7 @@ title: "Is increasing reactive oxygen species a good strategy for appetite contr
 (WIDEO)"
 subtitle: "Chris Masterjohn odpowiada na pytanie dotyczące wpływu ROS na apetyt i skłonnośc do poboru energii przez organizm"
 date: 2020-12-10 19:41:38 +0200
-categories: matabolizm, ROS, mitochondrium
+categories: matabolizm ROS mitochondrium
 category: matabolizm
 author: ztankoz
 authors: "Chris Masterjohn, PhD"

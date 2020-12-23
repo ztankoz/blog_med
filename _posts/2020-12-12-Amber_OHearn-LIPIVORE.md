@@ -10,10 +10,12 @@ authors: "L. Amber O'Hearn"
 comment: "  "
 ---
 
-Co to rabit starvation
-Czy inne drapieżniki tego doświadczają?
-Skąd biora tłuszcz przeżuwacze
-Jak dużo mamy tłuszczu na sobie
+Wykład omawia:
+
+- Cym jest rabit starvation?
+- Czy inne drapieżniki tego doświadczają?
+- Skąd biora tłuszcz przeżuwacze?
+- Jak dużo mamy tłuszczu na sobie?
 
 [dostępność ketonów w zależności od wielkości mózgu i wieku](https://youtu.be/xAWReEm4l0w?t=1372)
 
