@@ -7,7 +7,7 @@ categories: dieta matabolizm choroba
 category: dieta
 author: ztankoz
 authors: "Paul Saladino"
-comment: " Przekonujące wyjaśnienie jak wprowadzenie nowoczesnych zaleceń dietetycznych w latach 80tych doprowadziło do epidemii otyłości i rozwoju chorób przewlekłych. Autorka pomaga zrozumieć polityczne i gospodarcze implikacje"
+comment: " Przekonujące wyjaśnienie jak wprowadzenie nowoczesnych zaleceń dietetycznych w latach 80tych doprowadziło do epidemii otyłości i rozwoju chorób przewlekłych. Autorka pomaga zrozumieć polityczne i gospodarcze implikacje. Hipoteza tłuszczowa chorób serca była obalana w kontrolowanych, rygorystycznie prowadzonych badaniach wielokrotnie. Jest jednak stale podtrzymywana za duże pieniądze przemysłu spożywczego i farmaceutycznego przy pomocy dwóch narzędzi; badań epidemiologicznych będących bezwartościowymi pracami korelacyjnymi oraz neurotycznych dziennikarzy"
 ---
 
 [Otyłość w USA](https://youtu.be/HPlUot3WLko?t=916) - ponad 40% populacji
@@ -25,10 +25,13 @@ Jak odpowiedną promocją zastąpiono smalec i masło przy pomocy utwardzonych o
 
 [Wzrost spożycia olejów z nasion](https://youtu.be/HPlUot3WLko?t=3233) - słuchamy sie zaleceń dietetycznych i jesteśmy coraz bardziej chorzy.
 
-Wnioski Ancela Keys i prace badawcze obalające jego założenia.
+Wnioski Ancela Keysa i prace badawcze obalające jego założenia.
 
 - Minnesota Coronary Experiment - obniżenie cholesterolu a jednocześnie wzrost ilości zgonów z powodu chorób nowotworowych i chorób serca w grupie badanej (na tłuszczach z nasion). Dodatkowo praca została ukryta na 16 lat.
--
+- (MRFIT) Multiple risk factor intervention trial. Risk factor changes and mortality results. Multiple Risk Factor Intervention Trial Research Group - 12tyś mężczyzn, badanie z grupą interwencyjną, prowadzone przez 7 lat z 16 letnim dalszym nadzorem. Grupa poddana interwencji dietetycznej polegającej na obniżeniu ilości olejów nasyconych w diecie, mimo znacznie większej redukcji w wypalanych papierosach i leczenia p/nadciśnieniowego, żyła krócej niż grupa kontrolna. !!!
+- Sydney Diet Heart Study - badanie trwało 3 lata i zostało przerwane przedwcześnie głównie dlatego, że grupa interwencyjna będąca na oleju słonecznukowym miała szybko rosnąca śmiertelność
+- i wiele innych prac w tym jedna warta wzmianki:
+- Geographical aspects of acute myocardial infarction in India with special reference to patterns of diet and eating - autor:S.L.Malhotra - praca oparta o statystyke porównawczą miliona mężczyzn z południa i północy Indii. Chroba niedokrwienna serca występowała SIEDEM RAZY częściej wśród mężczyzn z południa a jedynym uchwytnym czynnikiem rozróżniającym była dieta. Osoby z północy jadły 8 do 19 razy więcej tłuszczu pochodzenia zwierzęcego (głównie nabiału) w stosunku do południowców. Mężczyźni z południa jedli głównie olej roślinny (nasiennego pochodzenia)
 
 <hr>
 <br>
