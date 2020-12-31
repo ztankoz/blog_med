@@ -1,7 +1,7 @@
 ---
 layout: post
 title: " A high linoleic acid diet increases oxidative stress in vivo and affects nitric oxide metabolism in humans"
-subtitle: "Sters oksydacyjny, uszkadzanie śródbłonka naczyń i to wszystko za sprawą <zdrowego tłuszczu nienasyconego>"
+subtitle: "Sters oksydacyjny, uszkadzanie śródbłonka naczyń i to wszystko za sprawą *zdrowego tłuszczu nienasyconego*"
 date: 2020-12-31 12:56:38 +0200
 categories: dieta matabolizm LA NO
 category: matabolizm

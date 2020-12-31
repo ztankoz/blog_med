@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Changes in dietary fat intake alter plasma levels of oxidized low-density lipoprotein and lipoprotein(a)"
-subtitle: " Jak walcząc ze <złym cholersterolem>, doprowadzamy do zwiększenia we krwi substancji toksycznych, rakotwórczych i miażdzycorodnych"
+subtitle: " Jak walcząc ze *złym cholersterolem*, doprowadzamy do zwiększenia we krwi substancji toksycznych, rakotwórczych i miażdzycorodnych"
 date: 2020-12-27 22:46:38 +0200
 categories: dieta matabolizm choroba tłuszcz LDL
 category: matabolizm
