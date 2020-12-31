@@ -7,7 +7,7 @@ categories: insulinooporność insulinowrażliwość matabolizm tłuszcz miażd�
 category: metabolizm choroby
 author: ztankoz
 authors: "Robert A. Hegele"
-comment: "Model genetyczny pokazujący co dzieje się gdy ktoś spożywa duże ilości PUFA. Efekt jest taki sam bo PUFA zaburzają rozrost poprzez podział komórek a nasilają poprzez rozrost pojedynczej komórki."
+comment: "Model genetyczny pokazujący co dzieje się gdy ktoś spożywa duże ilości PUFA. Efekt jest taki sam bo PUFA zaburzają rozrost poprzez podział komórek a nasilają poprzez rozrost pojedynczej komórki. Co istotne pacjenci z ta chorobą nie mają podwyższonego poziomu LDL ale wysokie trójglicerydy i galopującą insulinooporność "
 ---
 
 Rodzinna częściowa dystrofia typ Donnigana - mutacja polegająca na niemożności rozrostu tkanki tłuszczowej poprzez podział. Pojedyncze komórki tłuszczowe - najczęściej jako tłuszcz trzewny - gromadzą lipidy a u pacjentów szybko rozwija się miażdzyca.

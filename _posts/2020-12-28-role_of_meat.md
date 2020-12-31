@@ -30,4 +30,4 @@ Cytat: "Grupa ta (wydająca zalecenia) doszła do wniosku, że doświadczenia na
 <hr>
 <br>
 
-[Skrót do streszczenia pracy](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7015455/) - pełny tekst pracy przesyłam na prośbe moich pacjentów.
+[Skrót do streszczenia pracy](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7015455/) - pełny tekst pracy przesyłam na prośbę moich pacjentów.
