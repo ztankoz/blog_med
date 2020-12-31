@@ -7,7 +7,7 @@ categories: dieta matabolizm LA NO
 category: matabolizm
 author: ztankoz
 authors: " A.M. Turpeinen, S. Basu, M. Mutanen"
-comment: "Aby doszło do miażdzycy w naczyniach, te muszą ulec uszkodzeniu. Najlepszym kandydatem na szkodniak jest właśnie LA (kwas linolenowy) tak polecany nam w <zdrowej diecie>"
+comment: "Aby doszło do miażdzycy w naczyniach, te muszą ulec uszkodzeniu. Najlepszym kandydatem na szkodnika jest właśnie LA (kwas linolenowy) tak polecany nam w **zdrowej diecie**"
 Alert: "Badanie interwencyjne z grupą kontrolną. Istotna wartość naukowa wyników"
 ---
 
