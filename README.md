@@ -1,7 +1,6 @@
 Blog związany z medycyną
 
 ## Strona w budowie
-Test
 
 Czy tłuszcze są szkodliwe dla zdrowia człowieka?
 
@@ -43,15 +42,13 @@ Oddziaływania mataboliczne
 
 Kiedy narodziła sie współczesna medycyna.
 
+Jak działa współczesna medycyna?
+
 Na czym sie głównie opiera. Często sie mówi o zapobieragniu ale jak zapobiegać skoro nie znamy mechanizmów
 
 Skaczemy między objawami końcowymi a genami.
 
-Jak działa współczesna medycyna?
-
 Głód i sytość
-
-Cykliczność
 
 Kłamstwa statystyvczne
 
