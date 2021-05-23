@@ -1,4 +1,4 @@
 {
-    "terminal.explorerKind": "external",
-    "terminal.integrated.tabs.enabled": true
+    "terminal.integrated.tabs.enabled": true,
+    "terminal.explorerKind": "external"
 }
